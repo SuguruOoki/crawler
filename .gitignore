@@ -1,0 +1,6 @@
+# ignore vagrantfile
+.vagrant
+Vagrantfile
+
+# ignore output file
+*.html
