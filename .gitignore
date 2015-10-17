@@ -4,3 +4,6 @@ Vagrantfile
 
 # ignore output file
 *.html
+
+# ignore node module
+*/node_module/
