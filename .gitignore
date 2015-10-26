@@ -6,4 +6,4 @@ Vagrantfile
 *.html
 
 # ignore node module
-*/node_module/
+node_module/
