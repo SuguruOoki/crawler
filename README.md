@@ -3,8 +3,12 @@
 This is the web scraping packages.  
 This packages is composed by JavaScript language.
 
-### node packages
+### using node modules
 
  + require
 
  + cheerio-httpcli
+
+ + phantomjs
+
+ + casperjs
